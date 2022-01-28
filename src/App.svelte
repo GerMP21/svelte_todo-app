@@ -58,6 +58,4 @@
 	.checked {
 		text-decoration: line-through;
 	}
-
-
 </style>
